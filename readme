@@ -15,9 +15,9 @@ Cette API REST complète, développée avec Node.js et Express, permet de gérer
 ## Travail effectué 
 
 - ANCEY, Paul -> Test / config /controllers / database
-- BADRI, Kilian -> 
-- BOUDJELAL, Redha -> 
-- SMANIOTTO, Liam ->
+- BADRI, Kilian -> test / controllers / middlewares / setup
+- BOUDJELAL, Redha -> test / controllers / redha / server
+- SMANIOTTO, Liam -> test / controllers / routes / utils
 
 
 
