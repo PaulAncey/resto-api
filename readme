@@ -3,13 +3,23 @@
 Cette API REST complète, développée avec Node.js et Express, permet de gérer un système de réservation pour un restaurant fictif. Elle gère l'authentification des utilisateurs, les réservations, le menu du restaurant et les tables.
 
 ## Table des Matières
+- [Équipe et contributions](#équipe-et-contributions)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
 - [Structure du projet](#structure-du-projet)
 - [Base de données](#base-de-données)
 - [Documentation des Routes](#documentation-des-routes)
 - [Compte de test](#comptes-de-test)
-- [Équipe et contributions](#équipe-et-contributions)
+
+
+## Travail effectué 
+
+- ANCEY, Paul -> Test / config /controllers / database
+- BADRI, Kilian -> 
+- BOUDJELAL, Redha -> 
+- SMANIOTTO, Liam ->
+
+
 
 ## Fonctionnalités
 
@@ -148,3 +158,5 @@ Consultez le fichier `database.sql` pour le schéma complet.
 ### Client
 - Email : `client@example.com`
 - Mot de passe : `Client123!`
+
+
