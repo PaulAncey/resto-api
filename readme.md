@@ -39,12 +39,20 @@ L'API propose les fonctionnalités suivantes :
 - Node.js (v14 ou supérieur)
 - MySQL (v5.7 ou supérieur)
 
+## Installation rapide
+
+Pour installer et démarrer l'API en une seule commande, exécutez :
+
+```bash
+npm run setup
+```
+
 ### Étapes d'installation
 
 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-username/restaurant-reservation-api.git
-cd restaurant-reservation-api
+git clone git@github.com:PaulAncey/resto-api.git
+cd resto-api
 ```
 
 2. Installer les dépendances
