@@ -203,29 +203,6 @@ const Menu = () => {
           )}
         </div>
       </section>
-
-      {/* Footer Info */}
-      <section className="bg-white py-12 border-t">
-        <div className="container mx-auto px-4 text-center">
-          <h3 className="text-2xl font-bold text-gray-800 mb-4">
-            Informations importantes
-          </h3>
-          <div className="max-w-3xl mx-auto space-y-4 text-gray-600">
-            <p>
-              <strong>Allergènes :</strong> Nos plats peuvent contenir des allergènes. 
-              N'hésitez pas à nous signaler vos allergies lors de votre réservation.
-            </p>
-            <p>
-              <strong>Menu végétarien et végan :</strong> Des options végétariennes et véganes 
-              sont disponibles sur demande.
-            </p>
-            <p>
-              <strong>Prix :</strong> Les prix peuvent varier selon la saison et la disponibilité des produits. 
-              Menu mis à jour régulièrement.
-            </p>
-          </div>
-        </div>
-      </section>
     </div>
   );
 };

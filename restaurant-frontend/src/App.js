@@ -141,18 +141,6 @@ function AppContent() {
             />
           </Routes>
         </main>
-        
-        {/* Footer */}
-        <footer className="bg-gray-800 text-white py-8 mt-16">
-          <div className="container mx-auto px-4 text-center">
-            <p className="text-gray-300">
-              © 2025 Restaurant Délices & Saveurs. Tous droits réservés.
-            </p>
-            <p className="text-gray-400 text-sm mt-2">
-              Développé avec ❤️ pour votre plaisir culinaire
-            </p>
-          </div>
-        </footer>
       </div>
     </Router>
   );

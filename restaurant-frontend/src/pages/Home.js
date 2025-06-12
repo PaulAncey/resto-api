@@ -102,55 +102,6 @@ const Home = () => {
           </div>
         </div>
       </section>
-
-      {/* Hours & Info Section */}
-      <section className="py-16 px-4 bg-gray-50">
-        <div className="container mx-auto">
-          <div className="grid md:grid-cols-2 gap-12">
-            <div>
-              <h3 className="text-2xl font-bold text-gray-800 mb-6 flex items-center">
-                <Clock className="h-6 w-6 mr-2 text-green-600" />
-                Horaires d'ouverture
-              </h3>
-              <div className="space-y-2 text-gray-600">
-                <div className="flex justify-between">
-                  <span>Lundi - Vendredi</span>
-                  <span>12h00 - 14h30, 19h00 - 22h30</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Samedi</span>
-                  <span>19h00 - 23h00</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Dimanche</span>
-                  <span>12h00 - 15h00</span>
-                </div>
-              </div>
-            </div>
-
-            <div>
-              <h3 className="text-2xl font-bold text-gray-800 mb-6">
-                Informations pratiques
-              </h3>
-              <div className="space-y-4 text-gray-600">
-                <p>
-                  <strong>Adresse :</strong> 123 Rue de la Gastronomie, 75001 Paris
-                </p>
-                <p>
-                  <strong>Téléphone :</strong> 01 23 45 67 89
-                </p>
-                <p>
-                  <strong>Email :</strong> contact@delices-saveurs.fr
-                </p>
-                <p className="text-sm text-gray-500">
-                  Réservation recommandée, particulièrement en fin de semaine. 
-                  Nous acceptons les groupes jusqu'à 12 personnes.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
   );
 };
