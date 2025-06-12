@@ -33,6 +33,10 @@ L'API propose les fonctionnalités suivantes :
 - Filtres dynamiques sur les réservations et le menu
 - Notifications simulées
 
+### Vidéo démonstrative 
+
+- https://drive.google.com/file/d/19AEcGsJ-Qfq8JB1ZaGwgr5p_RRt7B_VU/view?usp=sharing
+
 ## Installation
 
 ### Prérequis
